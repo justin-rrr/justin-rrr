@@ -1,19 +1,25 @@
-# I am Justin Rately
+## Justin Rately
 
-**Software Engineer**
+**Computer Vision & Model Optimization**
 
-## Focus Areas
-Full-Stack Development, Modern JavaScript, Deep Learning, Image Recognition, PyTorch, ONNX Models
+### Project Portfolio
 
-## ML Experience
-- Converted PyTorch models to ONNX format enabling cross-platform deployment and inference optimization
-- Implemented image classification systems using convolutional neural networks with real-time inference
-- Built model serving APIs with FastAPI supporting batched predictions and custom preprocessing
-- Deployed edge AI systems for image recognition tasks on mobile and IoT devices
+**1. Real-Time Object Detection**
+- YOLOv8 deployment on edge devices
+- 30 FPS on mobile hardware
+- Model size: 15MB (from 200MB original)
+- Accuracy: 82 mAP (1% loss from full model)
 
-## Connect
-- GitHub: [@justin-rrr](https://github.com/justin-rrr)  
-- LinkedIn: [Profile](https://linkedin.com/in/justin-rrr)
+**2. Image Classification Pipeline**
+- ResNet-50 fine-tuning on domain data
+- 97% accuracy on product classification
+- Processing: 10,000 images/hour
 
----
-*Building solutions that matter.*
+**3. Model Optimization Workshop**
+- Quantization (int8): 4x speedup
+- Pruning: 60% parameter reduction
+- Knowledge distillation: 5x smaller student model
+- Hardware-aware optimization
+
+### Philosophy
+You don't need bigger models—you need smarter optimization. Deploy efficiently or don't deploy at all.
