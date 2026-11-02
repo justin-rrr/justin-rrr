@@ -1,25 +1,22 @@
-## Justin Rately
+I am Justin Rately
 
-**Computer Vision & Model Optimization**
+**Computer Vision & Model Optimization Engineer**
 
-### Project Portfolio
-
-**1. Real-Time Object Detection**
+**Real-Time Object Detection**
 - YOLOv8 deployment on edge devices
-- 30 FPS on mobile hardware
-- Model size: 15MB (from 200MB original)
-- Accuracy: 82 mAP (1% loss from full model)
+- 30 FPS performance on mobile hardware
+- Model size: 15MB (85% reduction from original)
+- 82 mAP accuracy (1% loss from full model)
 
-**2. Image Classification Pipeline**
-- ResNet-50 fine-tuning on domain data
+**Image Classification Pipeline**
+- ResNet-50 fine-tuning on domain-specific data
 - 97% accuracy on product classification
-- Processing: 10,000 images/hour
+- 10,000 images/hour processing throughput
 
-**3. Model Optimization Workshop**
+**Model Optimization Techniques**
 - Quantization (int8): 4x speedup
 - Pruning: 60% parameter reduction
-- Knowledge distillation: 5x smaller student model
+- Knowledge distillation: 5x smaller model
 - Hardware-aware optimization
 
-### Philosophy
-You don't need bigger models—you need smarter optimization. Deploy efficiently or don't deploy at all.
+Philosophy: Build efficient models or don't build at all. Model optimization has greater ROI than scaling infrastructure.
