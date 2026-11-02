@@ -1,7 +1,7 @@
 # Justin Rately
 
-Web developer specializing in modern JavaScript ecosystems and cloud platforms.
+Building stuff on the web. Love modern JavaScript, responsive design, and making things work in the cloud.
 
-**Focus**: Frontend and backend web development, responsive design, cloud deployments
+Currently focused on: Full-stack web development, cloud platforms, shipping fast
 
-**Tech Stack**: JavaScript, TypeScript, React, Node.js, MongoDB, Firebase, AWS
+**Stack**: JavaScript, TypeScript, React, Node.js, MongoDB, AWS, Firebase
