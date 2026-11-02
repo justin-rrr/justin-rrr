@@ -1,7 +1,19 @@
-I'm Justin Rately
+# I am Justin Rately
 
-Full-stack web developer specializing in modern JavaScript and cloud-native applications.
+**Software Engineer**
 
-**Focus**: JavaScript, React, Node.js, responsive design, AWS deployments
+## Focus Areas
+Full-Stack Development, Modern JavaScript, Deep Learning, Image Recognition, PyTorch, ONNX Models
 
-Building fast, reliable web applications that users love.
+## ML Experience
+- Converted PyTorch models to ONNX format enabling cross-platform deployment and inference optimization
+- Implemented image classification systems using convolutional neural networks with real-time inference
+- Built model serving APIs with FastAPI supporting batched predictions and custom preprocessing
+- Deployed edge AI systems for image recognition tasks on mobile and IoT devices
+
+## Connect
+- GitHub: [@justin-rrr](https://github.com/justin-rrr)  
+- LinkedIn: [Profile](https://linkedin.com/in/justin-rrr)
+
+---
+*Building solutions that matter.*
