@@ -1,11 +1,7 @@
-# I am Justin Rately
+# Justin Rately
 
-## Focus Areas
-Full-Stack Development, Modern JavaScript, Cloud Technologies
+Web developer specializing in modern JavaScript ecosystems and cloud platforms.
 
-## Connect
-- GitHub: [@justin-rrr](https://github.com/justin-rrr)  
-- LinkedIn: [Profile](https://linkedin.com/in/justin-rrr)
+**Focus**: Frontend and backend web development, responsive design, cloud deployments
 
----
-*Building solutions that matter.*
+**Tech Stack**: JavaScript, TypeScript, React, Node.js, MongoDB, Firebase, AWS
