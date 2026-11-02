@@ -1,4 +1,4 @@
-# Justin Rately
+I'm Justin Rately
 
 Full-stack web developer specializing in modern JavaScript and cloud-native applications.
 
