@@ -1,22 +1,20 @@
-I am Justin Rately
+Justin Rately | Computer Vision
 
-**Computer Vision & Model Optimization Engineer**
+### Specializations
 
-**Real-Time Object Detection**
-- YOLOv8 deployment on edge devices
-- 30 FPS performance on mobile hardware
-- Model size: 15MB (85% reduction from original)
-- 82 mAP accuracy (1% loss from full model)
+**Edge Deployment:** YOLO for mobile (30fps, 15MB model)
+**Classification:** ResNet fine-tuning (97% accuracy, 10K images/hour)
+**Optimization:** Quantization 4x, Pruning 60%, Distillation 5x smaller
 
-**Image Classification Pipeline**
-- ResNet-50 fine-tuning on domain-specific data
-- 97% accuracy on product classification
-- 10,000 images/hour processing throughput
+### Philosophy
 
-**Model Optimization Techniques**
-- Quantization (int8): 4x speedup
-- Pruning: 60% parameter reduction
-- Knowledge distillation: 5x smaller model
+Efficient models or no models. Optimization ROI exceeds infrastructure scaling.
+
+**Techniques:**
+- int8 Quantization
+- Structured pruning
+- Knowledge distillation
 - Hardware-aware optimization
+- ONNX conversion
 
-Philosophy: Build efficient models or don't build at all. Model optimization has greater ROI than scaling infrastructure.
+**Stack:** PyTorch, TensorFlow, ONNX, TensorFlow Lite
