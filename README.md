@@ -1,80 +1,48 @@
-# Justin Rately
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=720&height=60&lines=Justin+Ratley;ATG+GCC+TAC+GGA+...+genetics+%2B+mathematics;Senior+Bioinformatics+Scientist" alt="Justin Ratley" /></p>
 
-**Computer Vision & Model Optimization Engineer**
 
-## Philosophy
+<p align="center"><i>Biologist (Genetics & Genomics) & Mathematician · Senior Bioinformatics Scientist</i></p>
 
-You don't need bigger models—you need smarter optimization. The best model is the one that runs efficiently on target hardware without sacrificing accuracy. Deployment feasibility is as important as model performance.
 
-## Solutions
+<br>
 
-### 🎯 Real-Time Object Detection
 
-Deploying object detection on edge devices with constraints on model size, computation, and power consumption.
+**🧬 What do I study?**
 
-**System:**
-- YOLOv8 base architecture
-- Deployed on mobile hardware (phones, edge devices)
-- 30 FPS performance in real-time
-- Model size: 15MB (85% reduction from baseline)
-- Accuracy: 82 mAP (only 1% loss from full model)
 
-**Trade-offs:** Made deliberate choices sacrificing 1% accuracy for 13x smaller model size and real-time performance.
+How genetic variation arises and spreads through populations, how it maps to traits, and how to read it reliably from sequencing and single-cell data. I come at it as a biologist with mathematics underneath: stochastic models and statistical genetics.
 
-**Applications:** Object detection, security monitoring, mobile applications, IoT devices
 
-### 📷 Image Classification Pipeline
+**🔬 What have I built?**
 
-Domain-specific image classification delivering accuracy and speed.
 
-**Architecture:**
-- ResNet-50 as backbone
-- Fine-tuned on domain-specific dataset
-- Custom preprocessing and augmentation
-- Multi-GPU training
+A path from raw reads all the way to the clinic:
 
-**Performance:**
-- 97% accuracy on product classification
-- 10,000 images/hour throughput
-- Sub-100ms inference latency
 
-**Deployment:** REST API, batch processing, real-time inference
+<p align="center">
+  <img src="https://img.shields.io/badge/reads%20%E2%86%92%20variants-VariantFlow-7c3aed?style=flat" /> ➜ <img src="https://img.shields.io/badge/variants%20%E2%86%92%20traits-Linkage%20Lab-6d28d9?style=flat" /> ➜ <img src="https://img.shields.io/badge/traits%20%E2%86%92%20populations-Allele%20Engine-4f46e5?style=flat" /><br>
+  <img src="https://img.shields.io/badge/cells%20%E2%86%92%20clusters-Cellmap-0d9488?style=flat" /> ➜ <img src="https://img.shields.io/badge/genome%20%E2%86%92%20clinic-OncoBrief-059669?style=flat" /> ➜ <img src="https://img.shields.io/badge/clinic%20%E2%86%92%20cohorts-Cohortly-047857?style=flat" />
+</p>
 
-### ⚡ Model Optimization Techniques
 
-Deep expertise in making models smaller, faster, and more efficient without sacrificing quality.
+> **VariantFlow** turns reads into annotated variants with QC gates · **Linkage Lab** maps them to traits with GWAS and QTL scans · **Allele Engine** simulates how they drift and spread · **Cellmap** explores single-cell expression in the browser · **OncoBrief** summarizes genomic reports for clinicians · **Cohortly** compares patient cohorts and outcomes.
 
-**Quantization (int8):**
-- 4x speedup
-- 75% reduction in model size
-- Minimal accuracy loss
-- Hardware-accelerated inference
 
-**Pruning:**
-- 60% reduction in parameters
-- Removes redundant neurons and connections
-- Maintains performance on pruned network
-- Further reduction in latency
+**🧮 How do I work?**
 
-**Knowledge Distillation:**
-- 5x smaller student model
-- Trained by larger teacher model
-- Comparable accuracy to larger model
-- More efficient at inference
 
-**Hardware-Aware Optimization:**
-- Tailoring models to specific hardware (mobile, edge, cloud)
-- Exploiting hardware capabilities (GPU, TPU, CPU)
-- Profiling and optimization for target platform
+Every result should be reproducible from its inputs: pinned containers, seeded simulations, logged filters and thresholds, and checks against theory before anything is trusted.
 
-## Key Insight
 
-Production constraints are real. A 95% accurate model that takes 5 seconds to infer is worse than an 94% accurate model that runs in 100ms. Optimization isn't a nice-to-have—it's essential.
+**💻 Why the engineering?**
 
-## Technical Stack
 
-PyTorch, TensorFlow, ONNX, TensorFlow Lite, TensorRT, Quantization libraries, Mobile deployment frameworks
+I'm also a software engineer with 10+ years of experience across health-system apps, business intelligence and bioinformatics. That's why my research tools hold up in production.
 
----
 
-*Efficient models for the real world.*
+**🧰 What do I reach for?**
+
+
+<p align="center"><img src="https://skillicons.dev/icons?i=py,r,ts,nextjs,react,postgres,docker,aws&perline=8" /></p>
+<p align="center"><sub>Nextflow · GATK · DeepVariant · PLINK · Scanpy · NumPy · SciPy · LangChain</sub></p>
+
